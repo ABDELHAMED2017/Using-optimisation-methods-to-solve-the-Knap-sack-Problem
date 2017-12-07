@@ -1,0 +1,12 @@
+n = 10 # number of items
+W = 250  # maximum weight of knapsack (capacity)
+62 34
+40 79
+77 66
+56 32
+22 33
+79 43
+71 20
+63 42
+39 40
+23 80
