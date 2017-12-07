@@ -9,3 +9,7 @@ The optimisation methods used are :
 - Advanced branch and bound, 
 
 - Dynamic programming
+
+- Gradient descent 
+
+- Newton descent 
